@@ -21,36 +21,28 @@ Designers & Engineers:
 
 ###3D-printed Parts:
 
-* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_IV/M4%20Released/STL%20Directory) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
-	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL%20Directory/M4_Small_Front.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL%20Directory/M4_Medium_Front.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL%20Directory/M4_Large_Front.stl)
-	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL%20Directory/M4_Small_Back.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL%20Directory/M4_Medium_Back.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL%20Directory/M4_Large_Back.stl)
+* [FRAME](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_IV/M4%20Released/STL's) (head circumference: small = 50-55cm, medium = 55-60cm, large = 60-65cm)
+	* FRAME_FRONT (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Frame/M4_Small_Front.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Frame/M4_Medium_Front.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Frame/M4_Large_Front.stl)
+	* FRAME_BACK (**x1**) — .STLs ([small](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Frame/M4_Small_Back.stl) / [medium](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Frame/M4_Medium_Back.stl) / [large](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Frame/M4_Large_Back.stl)
 * [MECH_PARTS](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS)
-	* [OCTANUT](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/OCTANUT) (**x21**) — .STLs ([tight](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/OCTANUT/OCTANUT-TIGHT.stl) / [normal](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/OCTANUT/OCTANUT-NORMAL.stl) / [loose](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/OCTANUT/OCTANUT-LOOSE.stl)) (Choose normal first / if it is too tight for the OCTABOLT, choose loose / if it is too loose for the OCTABOLT, choose tight)
-	* [OCTABOLT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/OCTABOLT_20.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/OCTABOLT_20.stl)
-	* [OCTARING](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/OCTARING.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/OCTARING.stl)
-	* [ELECTRODE_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/E_HOLDER.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/E_HOLDER.stl)
-	* [QUADSTAR](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/QUADSTAR.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/QUADSTAR.stl)
-	* [Comfy Insert](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova_REVISED/STLs/MECH_PARTS/Comfy_Insert.stl) (**x21**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/MECH_PARTS/Comfy_Insert.stl)	
-* [BOARD_HOLDER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova_REVISED/STLs/HOLDER_AND_COVER/BOARD_HOLDER.stl) (**x1**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/HOLDER_AND_COVER/BOARD_HOLDER.stl)
-* BOARD_COVER (**x1**) — choose STANDARD or ADVANCED
-	* [STANDARD](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova_REVISED/STLs/HOLDER_AND_COVER/BOARD_COVER_STANDARD.stl) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/HOLDER_AND_COVER/BOARD_COVER_STANDARD.stl)
-	* [ADVANCED](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_III_Nova_REVISED/STLs/HOLDER_AND_COVER/BOARD_COVER_ADVANCED.stl) (for extra hardware accessibility / if you've soldered on your header rows) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_III_Nova/STLs/HOLDER_AND_COVER/BOARD_COVER_ADVANCED.stl)
-* OCTATOOL (**x1**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_3/STLs/MECH_PARTS/OCTATOOL.stl)
+	* [INSERT](https://github.com/OpenBCI/Ultracortex/tree/master/Mark_IV/M4%20Released/STL's/Mech%20Parts/M4_Hardware_insert.STL) (**x35**) — .STLs ([tight](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Mech%20Parts/M4_Hardware_insert_105.5%25.STL) / [normal](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Mech%20Parts/M4_Hardware_insert.STL) / [loose](https://github.com/OpenBCI/Ultracortex/raw/masterMark_IV/M4%20Released/STL's/Mech%20Parts/M4_Hardware_insert_106.5%25.STL)) (Choose normal first / if it is too tight for the OCTABOLT, choose loose / if it is too loose for the OCTABOLT, choose tight)
+* [BOARD_MOUNT](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_IV/M4%20Released/STL's/Board%20Mount/M4%20Board_Base.STL) (**x1**) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Board%20Mount/M4%20Board_Base.STL)
+* BOARD_COVER (**x1**) 
+	* [BOARD COVER](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_IV/M4%20Released/STL's/Board%20Mount/M4%20Board_Cover.stl) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Board%20Mount/M4%20Board_Cover.stl)
+	* [BOARD MOUNT BASE(OPTIONAL)](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_IV/M4%20Released/STL's/Board%20Mount/M4%20Board_Base.STL) (for an optional easy removable board mount that is still in testing and is not included in the kits) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Board%20Mount/M4%20Board_Base.STL)
+* WIRE_CLIPS (**x30**) 
+	* [WIRE CLIPS](https://github.com/OpenBCI/Ultracortex/blob/master/Mark_IV/Mark_IV/M4%20Released/STL's/Accessories/M4_Wire_Clip.stl) (lips will be used to hold wire in place) — [.STL download link](https://github.com/OpenBCI/Ultracortex/raw/master/Mark_IV/M4%20Released/STL's/Accessories/M4_Wire_Clip.stl)
 
 ###Non-printed Parts:
  	
-* Additional Hardware:
-	* **Suggested Spring 1** listed below (**x21**)
-	* **Suggested Spring 2** listed below (**x5**)
-	* **Suggested Nuts** listed below (**x42**)
-	* **Suggested Bolts** listed below (**x21**)
-	* 1/4" #4 Drive Screw listed below (**x8**) for mounting the BOARD_HOLDER and OpenBCI Board
-* Wiring (**x21**)
-	* We strip apart the [Gold Cup Electrodes](http://openbci.myshopify.com/collections/frontpage/products/openbci-gold-cup-electrodes) or from the Touch-Proof Connector cable that comes with an [OpenBCI 32bit Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit).
-* Dry electrodes by Florida Research Instruments
-	* (**18x**) Dry (spikey) electrodes to be installed in Ultracortex nodes with hair: [Disposable / Reusable Dry EEG Electrode ($0.60 each at 50+ quantity purchase) ](http://fri-fl-shop.com/product/tde-200/)
-	* (**3x**) Dry (non-spikey) electrodes to be installed in Ultracortex nodes without hair (forehead, for instance): [Disposable / Reusable Cup Wet/Dry EEG Electrode ($10.00 for 15) ](http://fri-fl-shop.com/product/disposable-reusable-dry-eeg-electrode-quantity-of-15-tde-200a1/)
-	* (**2x**) Ear Clip electrode (for reference): [TDI-430 Silver-Silver Chloride Ear Clip Electrode ($19.95 each)](http://fri-fl-shop.com/product/td-430-silver-disc-electrode-ear-clip/)
+* Cables (**x3**)
+	* We strip apart the Cables in your kit (https://github.com/OpenBCI/Ultracortex/blob/master/Mark%20IV/Photos/Cables.JPG) 
+* Spikey units
+	* (**6x or 14x**) Depending on a 8 or 16 channel heas set dry (spikey) electrodes to be installed in Ultracortex nodes with hair: (https://github.com/OpenBCI/Ultracortex/blob/master/Mark%20IV/Photos/Spikey units (8chan).JPG)
+* Flat units
+	* (**2x**) Dry (non-spikey) electrodes to be installed in Ultracortex nodes without hair (forehead, for instance): (https://github.com/OpenBCI/Ultracortex/blob/master/Mark%20IV/Photos/Flat Units.JPG)
+
+	* (**2x**) Ear Clip electrode: (https://github.com/OpenBCI/Ultracortex/blob/master/Mark%20IV/Photos/Earclips.JPG)
 * (**1x**) An [OpenBCI 32bit Board](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit) or an [OpenBCI 16-channel R&D Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-16-channel-r-d-kit)
 * (**1x**) Lithium Ion Rechargeable Battery Pack (~500mAh) — [Sparkfun](https://www.sparkfun.com/products/10718) or [Adafruit](http://www.adafruit.com/products/1578)
 * (**1x**) [A charger for your battery pack](https://www.adafruit.com/products/1304)
