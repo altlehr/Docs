@@ -94,12 +94,6 @@ Designers & Engineers:
 
 ![image](../assets/Mark%20IV/Photos/Screw.JPG)
 
-####Wiring
-
-* (**21x**) We strip apart the [Gold Cup Electrodes](http://openbci.myshopify.com/collections/frontpage/products/openbci-gold-cup-electrodes)) or the Touch-Proof Connector cable that comes with an [OpenBCI 32bit Board Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit).
-
-![image](../assets/Mark%20IV/Photos/Screw.JPG)
-
 * Cables (**x3**)
 	* We strip apart the Cables in your kit (https://github.com/OpenBCI/Ultracortex/blob/master/Mark%20IV/Photos/Cables.JPG) 
 	
