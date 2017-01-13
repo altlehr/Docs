@@ -117,7 +117,7 @@ Designers & Engineers:
 * Ear Clips
 	* (**2x**) Ear Clip electrode: (https://github.com/OpenBCI/Ultracortex/blob/master/Mark%20IV/Photos/Earclips.JPG)
 
-![image](../assets/UCM3_Nova_Revised-image_assets/TRODES.jpg)
+![image](../assets/Mark%20IV/Photos/Earclips.JPG)
 
 ####(1x) An [OpenBCI 32bit Board](http://openbci.myshopify.com/collections/frontpage/products/openbci-32-bit-board-kit) (8 electrode channels) or an [OpenBCI 16-channel R&D Kit](http://openbci.myshopify.com/collections/frontpage/products/openbci-16-channel-r-d-kit) (16 electrode channels)
 
